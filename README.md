@@ -5,7 +5,4 @@
 1. Open Command Palette (Ctrl+Shift+P)
 2. Choose 'Preferences: Color Theme'
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fab1o/dark-plus-italics/master/example.png" />
-</p>
+<img src="https://raw.githubusercontent.com/fab1o/dark-plus-italics/master/example.png" />
