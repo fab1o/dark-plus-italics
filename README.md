@@ -7,5 +7,5 @@
 
 
 <p align="center">
-  <img src="example.png" />
+  <img src="https://raw.githubusercontent.com/fab1o/dark-plus-italics/master/example.png" />
 </p>
