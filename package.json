@@ -12,6 +12,9 @@
   "engines": {
     "vscode": "^1.20.0"
   },
+  "scripts": {
+    "deploy": "vsce publish"
+  },
   "icon": "icon.png",
   "categories": ["Themes"],
   "contributes": {
