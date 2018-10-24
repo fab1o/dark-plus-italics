@@ -363,7 +363,8 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#569cd6"
+        "foreground": "#569cd6",
+        "fontStyle": "italic"
       }
     },
     {
